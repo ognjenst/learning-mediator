@@ -1,0 +1,15 @@
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/bin/Debug/net7.0/Introduction
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/bin/Debug/net7.0/Introduction.deps.json
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/bin/Debug/net7.0/Introduction.runtimeconfig.json
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/bin/Debug/net7.0/Introduction.dll
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/bin/Debug/net7.0/Introduction.pdb
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/obj/Debug/net7.0/Introduction.csproj.AssemblyReference.cache
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/obj/Debug/net7.0/Introduction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/obj/Debug/net7.0/Introduction.AssemblyInfoInputs.cache
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/obj/Debug/net7.0/Introduction.AssemblyInfo.cs
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/obj/Debug/net7.0/Introduction.csproj.CoreCompileInputs.cache
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/obj/Debug/net7.0/Introduction.dll
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/obj/Debug/net7.0/refint/Introduction.dll
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/obj/Debug/net7.0/Introduction.pdb
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/obj/Debug/net7.0/Introduction.genruntimeconfig.cache
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/Introduction/obj/Debug/net7.0/ref/Introduction.dll
