@@ -3,17 +3,15 @@ namespace Mediator.Structural;
 public class ConcreteMediator : Mediator
 {
     
-    public Colleague1 Colleague1 { get; set; }
-    public Colleague2 Colleague2 { get; set; }
+    private List<Colleague> _colleagues = new List<Colleague>();
+    
+    public void Register(Colleague colleague)
+    {
+        colleague.SetMediator(this);
+        _colleagues.Add(colleague);
+    }
     public override void Send(string message, Colleague colleague)
     {
-        if(colleague == this.Colleague1)
-        {
-            Colleague2.HandleNotification(message);
-        }
-        else
-        {
-            Colleague1.HandleNotification(message);
-        }
+        _colleagues.Where(c => c != colleague).ToList().ForEach(c => c.HandleNotification(message));
     }
 }
