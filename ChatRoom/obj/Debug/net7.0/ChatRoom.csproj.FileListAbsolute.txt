@@ -1,0 +1,15 @@
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/obj/Debug/net7.0/ChatRoom.csproj.AssemblyReference.cache
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/obj/Debug/net7.0/ChatRoom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/obj/Debug/net7.0/ChatRoom.AssemblyInfoInputs.cache
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/obj/Debug/net7.0/ChatRoom.AssemblyInfo.cs
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/obj/Debug/net7.0/ChatRoom.csproj.CoreCompileInputs.cache
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/bin/Debug/net7.0/ChatRoom
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/bin/Debug/net7.0/ChatRoom.deps.json
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/bin/Debug/net7.0/ChatRoom.runtimeconfig.json
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/bin/Debug/net7.0/ChatRoom.dll
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/bin/Debug/net7.0/ChatRoom.pdb
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/obj/Debug/net7.0/ChatRoom.dll
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/obj/Debug/net7.0/refint/ChatRoom.dll
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/obj/Debug/net7.0/ChatRoom.pdb
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/obj/Debug/net7.0/ChatRoom.genruntimeconfig.cache
+/Users/ognjenstefanovic/RiderProjects/Learning - Mediator/ChatRoom/obj/Debug/net7.0/ref/ChatRoom.dll
